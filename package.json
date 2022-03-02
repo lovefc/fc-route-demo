@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "fc-route": "^0.0.1",
+    "koa": "^2.13.4",
+    "koa-sslify": "^5.0.0"
+  }
+}
